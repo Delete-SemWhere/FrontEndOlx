@@ -1,0 +1,22 @@
+.ContainerInformation{
+    float: left;
+    background-color: aliceblue;
+    height: 100px;
+    width: 25%;
+}
+.DivAjusteProductPage{
+    width: 90%;
+    margin: 20px auto;
+}
+.ContainerProductDetails{
+    float: left;
+    background-color: aqua;
+    height: 100px;
+    width: 45%;
+}
+.ContainerPropaganda{
+    float:left;
+    background-color: purple;
+    height: 100px;
+    width: 30%;
+}

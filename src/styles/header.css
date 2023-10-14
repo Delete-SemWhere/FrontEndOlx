@@ -13,9 +13,112 @@
 }
 .img_logo{
     height: 60px;
-
+    margin-right: 15px;
 }
 .item_header{
+    
     margin-left: 2px;
     display: inline-block;
+}
+.image_header{
+    float: left;
+   
+}
+.input_header{
+    
+    float: left;
+    
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    border-radius: 8px;
+    margin-top: 8px;
+    width: 32%;
+    display: flex;
+    justify-content: center; /* Alinhar horizontalmente */
+    align-items: center;
+}
+.input_header_{
+   
+    height: 45px;
+    width: 70%;
+    border-radius: 8px;
+    border: None;
+    font-size: 17px;
+    
+    padding: 15px;
+}
+.barra_input_header{
+    width: 1px;
+    margin-right: 5px;
+    height: 33px;
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.input_header_:focus {
+    outline: none;
+  }
+
+.select_header{
+    height: 32px;
+    font-size: 14px;
+    border:None;
+    width: 70px;
+    margin-right: 10px;
+}
+.icon_search{
+    height: 20px;
+    margin: 5px;
+   
+    width: 30px;
+    font-size: 5px;
+    font-weight: 200;
+    border-radius: 10px;
+
+}
+.icon_search:hover{
+
+    background-color: #9fa2a863;
+}
+.button_header{
+    width: 22%;
+    float: right;
+    display: flex;
+    justify-content: center; /* Alinhar horizontalmente */
+    align-items: center;
+    height: 40px;
+    margin-top: 10px;
+}
+.btnAnunciarHeader{
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: None;
+    background-color: #f28000;
+    color: white;
+}
+.btnHacktudoHeader{
+    margin-right:20px ;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: None;
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.233);
+    color: black;
+}
+.options_header{
+    float: left;
+    display: flex;
+    width: 37%;
+    justify-content: center; /* Alinhar horizontalmente */
+    align-items: center;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.options_header a{
+    margin-right: 10px;
+    margin-left: 5px;
+    font-size: 14px;
+    
+}
+
+.itemoption:hover{
+    color: purple;
 }
