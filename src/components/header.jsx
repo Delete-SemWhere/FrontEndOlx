@@ -5,13 +5,12 @@ import {GrAidOption} from 'react-icons/gr';
 import {PiChatCircleLight} from 'react-icons/pi';
 import {GrLocation} from 'react-icons/gr';
 import {IoMdNotificationsOutline} from 'react-icons/io';
-function Header() {
+function Header(){
   return (
     <div className='headerContainer'>
      <div className='div_organizer'>
         <ul className='image_header'>
             <li className='item_header'><img src='olx_logo.png'  className='img_logo' alt='logo'/></li>
-            
         </ul>
 
         <ul className='input_header'>

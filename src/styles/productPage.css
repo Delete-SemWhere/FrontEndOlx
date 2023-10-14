@@ -10,7 +10,7 @@
 }
 .ContainerProductDetails{
     float: left;
-    background-color: aqua;
+   
     height: 100px;
     width: 45%;
 }
@@ -19,4 +19,70 @@
     background-color: purple;
     height: 100px;
     width: 30%;
+}
+.locate_page_index{
+    font-size: 12px;
+
+}
+.title_pageProd{
+    width: 96%;
+    margin: auto;
+}
+.Title_page_{
+    margin: 15px 0px 10px 0px;
+}
+.date_page_products{
+    font-size: 12px;
+
+}
+.Image_pageProduct{
+    width: 100%;
+    margin: 15px 0 10px 0;
+    height: 400px;
+    border-radius: 10px ;
+    background-color: grey;
+}
+.infProductsPage{
+    width: 96%;
+    margin: 10px auto;
+}
+.precoProductsPage{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color:rgba(0, 0, 0, 0.781);
+}
+.descricaoProductsPage{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.DivbtnOptionsFav{
+    width: 100%;
+    text-align: center;
+}
+.btnOptionsFav{
+    margin: 0px 10px;
+    width:29%;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid #f28000;
+    background-color: transparent;
+    color:#f28000;
+    font-weight: bold;
+
+}
+
+.DivLocProductPages{
+
+    width: 96%;
+    margin: 15px auto;
+}
+.LocalateProductPages{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    display: inline-block;
+    width: 30%;
+}
+.spanLocatePag{
+    font-size: 13px;
 }
