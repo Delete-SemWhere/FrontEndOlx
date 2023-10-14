@@ -1,0 +1,164 @@
+.MainContainer{
+    width: 100%;
+    margin-top: 30px;
+}
+.mainFotoPromocao{
+    margin-bottom: 30px;
+    width:90%;
+    margin: auto;
+}
+.imagemMainPromocao{
+    
+    width: 100%;
+
+}.secao_itens{
+    width: 100%;
+    margin-bottom: 40px;
+}.secao_itens ul{
+    text-align: center;
+}
+.secao_itens ul li{
+    
+    display: inline-block;
+    height: 110px;
+    margin: 20px;
+    width: 70px;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.secao_itens ul li:hover{
+    color: purple;
+}
+.item_autopecas{
+    background-image: url('https://home.olx.com.br/_next/static/media/autos-e-pecas.d3a3ae21.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_imoveis{
+    background-image: url('https://home.olx.com.br/_next/static/media/imoveis.6dec511b.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 100px 0  0 0; 
+}
+.item_eletro{
+    background-image: url('https://home.olx.com.br/_next/static/media/eletronicos.0b4638d6.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_casa{
+    background-image: url('https://home.olx.com.br/_next/static/media/para-sua-casa.5fe61ac3.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_moda{
+    background-image: url('https://home.olx.com.br/_next/static/media/moda-e-beleza.00c81e28.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_lazer{
+    background-image: url('https://home.olx.com.br/_next/static/media/esporte-e-lazer.dc2772a8.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_music{
+    background-image: url('https://home.olx.com.br/_next/static/media/musica.84917ed6.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_infantis{
+    background-image: url('https://home.olx.com.br/_next/static/media/artigos-infantis.9ec0cbbb.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_agro{
+    background-image: url('https://home.olx.com.br/_next/static/media/agro.7e4ba158.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_serv{
+    background-image: url('https://home.olx.com.br/_next/static/media/servicos.24ff12b4.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 100px 0  0 0; 
+}
+.item_emprego{
+    background-image: url('https://home.olx.com.br/_next/static/media/emprego.e205b668.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.item_categorias{
+    background-image: url('https://home.olx.com.br/_next/static/media/todas-as-categorias.ad487386.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 80px 0  0 0; 
+}
+.cards_menu_Main{
+    width: 90%;
+    margin: auto;
+}
+.itens_cards_main{
+   
+    width: 98%;
+    margin: 35px auto;
+}
+.cards_Main{
+    border-radius: 10px;
+    border: 1px solid rgba(24, 24, 24, 0.253);
+    width: 230px;
+    margin-right: 10px;
+    height: 354px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.cards_Main:hover{
+    box-shadow: 6px 10px 20px 1px rgba(0, 0, 0, 0.205);
+}
+.img_card{
+    width: 100%;
+    height: 180px;
+    border-radius: 5px 5px 0 0 ;
+}
+.divAjusteCard{
+
+    width: 85%;
+    margin: auto;
+    
+}
+.price_card{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.title_card{
+    margin-bottom: 12px;
+}
+.formatar_loc_data{
+    height: 100%;
+
+}
+.loc_card{
+    font-size:15px ;
+    display: inline-block;
+    margin-top: 30px;
+}
+.data_card{
+    font-size:14px ;
+}
+.icon_loc_card{
+    margin-right: 5px;
+    display: inline-block;
+}
+.imagemMainPromocao{
+    border-radius:20px;
+}
