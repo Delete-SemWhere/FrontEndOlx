@@ -1,5 +1,6 @@
 import React from "react";
 import {CiHeart} from 'react-icons/ci';
+
 import '../../styles/productPage.css'
 function ProductDetails() {
   return (
@@ -11,6 +12,7 @@ function ProductDetails() {
         <p className="date_page_products">Publicado em Date</p>
       </div>
       <div className="Image_pageProduct">
+      
         
       </div>
 

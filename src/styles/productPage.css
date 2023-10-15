@@ -1,6 +1,6 @@
 .ContainerInformation{
     float: left;
-    background-color: aliceblue;
+   
     height: 100px;
     width: 25%;
 }
@@ -16,7 +16,7 @@
 }
 .ContainerPropaganda{
     float:left;
-    background-color: purple;
+   
     height: 100px;
     width: 30%;
 }
@@ -84,5 +84,82 @@
     width: 30%;
 }
 .spanLocatePag{
+    font-size: 13px;
+}
+.PrecoContainerInformation{
+    width: 90%;
+    margin: 25px auto;
+    margin-top: 10px;
+    background-color: #6e0ad6;
+    height: 80px;
+    border-radius:10px;
+    display: flex;
+    font-size: 25px;
+    color: white;
+    align-items: center;
+
+}
+.priceDiv{
+    margin-left: 20px;
+}
+.divvendedor{
+    height:160px ;
+    width: 90%;
+    margin: auto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+   
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+}
+.divbtnvendedor{
+    width: 100%;
+    text-align: center;
+}
+.btnChat{
+    height: 38px;
+    border-radius: 20px;
+    border: None;
+    background-color: #f28000;
+    color: white;
+    font-size: 17px;
+   
+}
+.linha{
+    height: 1px;
+    width: 90%;
+    margin: 10px auto;
+    background-color: rgba(0, 0, 0, 0.253);
+}
+.okok{
+    text-align: center;
+    font-size: 13px;
+    display: inline-block;
+    width: auto;
+}
+.bolinha{
+   
+    height:10px;
+    width: 10px;
+    border-radius: 50px;
+    padding: 1px 10px;
+    margin-right: 5px;
+    
+   
+    background-color:#8ce563 ;
+}
+.divvendedorInfo{
+    height:300px ;
+    width: 90%;
+    margin: 20px auto;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+   
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+}
+.divvendedorInfo p {
     font-size: 13px;
 }
